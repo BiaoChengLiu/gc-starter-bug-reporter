@@ -41,7 +41,7 @@
         <openfeign.version>10.7.4</openfeign.version>
         <postgresql.version>42.2.14</postgresql.version>
         <quartz.version>2.2.1</quartz.version>
-        <shiro.version>1.9.1</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <spring.boot.version>2.3.12.RELEASE</spring.boot.version>
         <spring.cloud.version>2.2.9.RELEASE</spring.cloud.version>
         <spring-cloud-starter-alibaba.version>2.2.7.RELEASE</spring-cloud-starter-alibaba.version>
